@@ -1,0 +1,22 @@
+html {
+  background: url('lightbulb.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 1.3em;
+  background-color:black;
+  color:#FFFFFF;
+}
+
+body {
+  margin: 0;
+}
+h1 {
+}
+.content {
+  width: 800px;
+  margin: auto;
+  padding: 20px;
+}
