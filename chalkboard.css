@@ -4,19 +4,23 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: 'Fredericka the Great', cursive;
-  font-size: 1.3em;
+  font-family: 'Amatic SC', cursive;
   background-color:black;
-  color:#FFFFFF;
+  color: #FFFFFF;
 }
 
 body {
   margin: 0;
 }
 h1 {
+  font-size: 43px;
 }
 .content {
   width: 800px;
   margin: auto;
   padding: 20px;
+}
+
+.right-align {
+  float: right;
 }
